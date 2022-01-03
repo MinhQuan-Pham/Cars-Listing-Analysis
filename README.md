@@ -6,4 +6,4 @@
 
 #### Objective & Solution
 - Objective: The purpose of this analysis is to provide a Business Recommendation Report for the scenario created
-- Solution: Conducting the analysis on the dataset https://www.kaggle.com/mirosval/personal-cars-classifieds 
+- Solution: Conducting the analysis on the dataset https://www.kaggle.com/mirosval/personal-cars-classifieds using Apache Hive
